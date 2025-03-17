@@ -1,0 +1,36 @@
+/* LevskiPage.css */
+.levski-page {
+    max-width: 900px;
+    margin: 100px auto 40px;
+    padding: 40px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    line-height: 1.8;
+    font-family: 'Georgia', serif;
+  }
+  
+  .levski-header h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #ccc;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  
+  .levski-page h2 {
+    font-size: 2.5em;
+    margin-top: 40px;
+  }
+  
+  .levski-page h3 {
+    font-size: 2em;
+    margin-top: 30px;
+  }
+  
+  .levski-page p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    text-align: justify;
+  }
+  

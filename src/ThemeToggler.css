@@ -1,0 +1,17 @@
+/* ThemeToggler.css */
+.theme-toggler-button {
+    background-color: transparent;
+    border: 2px solid #007bff;
+    color: #007bff;
+    padding: 8px 12px;
+    font-size: 1em;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .theme-toggler-button:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
